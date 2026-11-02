@@ -1,4 +1,4 @@
-# Meta-pLGG: Random Projection Based <ins>Meta<ins> Clustering Reveals Subtype-Specific Transcriptomic Heterogeneity of <ins>Pediatric<ins> <ins>Low-Grade<ins> <ins>GliomaA<ins> 
+# Meta-pLGG: Random Projection Based <ins>Meta</ins> Clustering Reveals Subtype-Specific Transcriptomic Heterogeneity of <ins>Pediatric</ins> <ins>Low-Grade</ins> <ins>Glioma</ins>
 **Meta-pLGG** Pediatric low-grade glioma (**pLGG**) is one of the most common central nervous system tumors in children, accounting for approximately 30% of pediatric CNS tumors. To more comprehensively characterize the molecular heterogeneity of pLGG and explore its potential biological and therapeutic significance, we developed a Meta-clustering method for pLGG subtype discovery, named Meta-pLGG. **Meta-pLGG** integrates multiple random projections with multiple base clustering methods to achieve higher resolution unsupervised classification of pLGG.
 
 ## Flowchart of Meta-pLGG
