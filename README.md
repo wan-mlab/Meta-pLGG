@@ -2,7 +2,7 @@
 **Meta-pLGG** Pediatric low-grade glioma (**pLGG**) is one of the most common central nervous system tumors in children, accounting for approximately 30% of pediatric CNS tumors. To more comprehensively characterize the molecular heterogeneity of pLGG and explore its potential biological and therapeutic significance, we developed a Meta-clustering method for pLGG subtype discovery, named Meta-pLGG. **Meta-pLGG** integrates multiple random projections with multiple base clustering methods to achieve higher resolution unsupervised classification of pLGG.
 
 ## Flowchart of Meta-pLGG
-![Flowchart of MetaAMI](Flowchart.pdf)
+![Flowchart of MetaAMI](Flowchart.svg)
 
 ## Table of Contents
 - [Installation](#installation)
